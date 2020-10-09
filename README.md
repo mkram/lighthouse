@@ -1,4 +1,6 @@
 # Lighthouse
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmkram%2Flighthouse.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmkram%2Flighthouse?ref=badge_shield)
+
 
 A lightweight ChatOps based webhook handler which can trigger Jenkins X Pipelines on webhooks from multiple git providers such as: GitHub, GitHub Enterprise, BitBucket Server, BitBucket Cloud, GitLab, Gitea etc
 
@@ -108,3 +110,6 @@ Then if you do:
     make build
 
 It will uses your local [jenkins-x/go-scm](https://github.com/jenkins-x/go-scm) source.                                                                                              
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmkram%2Flighthouse.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmkram%2Flighthouse?ref=badge_large)
